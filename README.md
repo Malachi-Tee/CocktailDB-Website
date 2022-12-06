@@ -1,7 +1,8 @@
 # My Awesome Project
 A simple one page website in order to search through the CocktailDB database using the provided API.
 
-![CocktailDB](https://github.com/Malachi-Tee/CocktailDB-Website)
+![CocktailDB](https://malachi-tee.github.io/CocktailDB-Website/CocktailAPI.html)
+Please refresh after 30 seconds so the file can load :).
 
 ## How It's Made:
 
