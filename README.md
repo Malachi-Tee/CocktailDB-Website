@@ -3,6 +3,7 @@ A simple one page website in order to search through the CocktailDB database usi
 
 # Link to project
 https://malachi-tee.github.io/CocktailDB-Website/CocktailAPI.html
+<br/>
 Please refresh after 30 seconds so the file can load :).
 
 ## How It's Made:
