@@ -3,6 +3,10 @@ document.getElementById('drinkSearchBtn').addEventListener('click', searchCockta
 
 function searchCocktail (){
   let drink = document.getElementById('drinkSearch').value
+  if(drink.length === 0){
+    document.getElementById('drinkName').textContent = 'Thers is nothing in the data field'
+    return
+  }
   drink = 'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=' + drink
   console.log(drink)
   fetch(drink)
