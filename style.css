@@ -1,0 +1,132 @@
+body {
+  background-color: rgba(65, 0, 0, 1);
+}
+#headTop {
+position: absolute;
+width: 144px;
+height: 33px;
+left: 648px;
+top: 47px;
+font-family: 'Alegreya SC';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+color: #FFFFFF;
+
+}
+#headBot{
+
+position: absolute;
+width: 262px;
+height: 30px;
+left: 589px;
+top: 87px;
+
+font-family: 'Black Ops One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+p{
+
+position: fixed;
+width: 185px;
+height: 36px;
+left: 628px;
+top: 209px;
+font-family: 'Codystar';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+#actionSec{
+position: fixed;
+width: 465px;
+height: 200px;
+left: 488px;
+top: 174px;
+background: #841D07;
+border: 2px solid #000000;
+box-shadow: inset 5px 5px 17px -5px rgba(0, 0, 0, 0.25), inset -5px -5px 17px -5px #000000;
+border-radius: 50px;
+}
+
+#drinkSearch{
+position: fixed;
+width: 241px;
+height: 35px;
+left: 596px;
+top: 270px;
+background: rgba(255, 255, 255, 0.95);
+border-radius: 28px;
+}
+input{
+  text-align: center;
+  color: rgba(0, 0, 0, 0.2);
+}
+#drinkSearchBtn{
+
+box-sizing: border-box;
+position: fixed;
+width: 25px;
+height: 25px;
+left: 800px;
+top: 280px;
+color: rgba(158, 158, 158, 1);
+}
+#random{
+position: fixed;
+width: 91px;
+height: 33px;
+left: 675px;
+top: 320px;
+font-family: 'Catamaran';
+font-style: normal;
+font-size: 4;
+display: flex;
+align-items: flex-end;
+text-align: center;
+text-transform: uppercase;
+color: #000000;
+}
+
+#drinkName{
+position: fixed;
+width: 225px;
+height: 36px;
+left: 342px;
+top: 450px;
+font-family: 'Coda';
+font-style: normal;
+font-weight: 800;
+font-size: 28px;
+line-height: 51px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+img{
+position: fixed;
+width: 196px;
+height: 181px;
+left: 342px;
+top: 500px;
+}
